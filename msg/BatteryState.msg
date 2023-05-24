@@ -1,0 +1,12 @@
+uint16 batteryID
+int8 state
+uint8 errorCode
+uint16 Voltage
+uint8 batteryLevel
+uint16 chargeCurrent
+uint16 dischargeCurrent
+uint8 maxCellTemperature
+uint8 minCellTemperature
+uint16 cycle
+uint16 chargeTime
+uint16 useTime

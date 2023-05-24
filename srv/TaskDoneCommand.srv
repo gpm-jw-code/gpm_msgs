@@ -1,0 +1,7 @@
+string model
+
+string command
+
+string taskID
+---
+bool confirm

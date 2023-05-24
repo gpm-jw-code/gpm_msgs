@@ -1,0 +1,16 @@
+nav_msgs/Path planPath
+
+# 
+uint16 guideType
+
+#0-moving forward ; 1-fixed orientation
+uint16 mobilityModes 
+
+uint16 finalGoalID
+
+gpm_msgs/PathInfo[] pathInfo
+
+string taskID
+---
+---
+geometry_msgs/PoseStamped base_position

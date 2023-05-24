@@ -1,0 +1,5 @@
+bool remoteMode
+string model
+string id
+---
+bool confirm

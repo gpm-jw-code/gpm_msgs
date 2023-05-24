@@ -1,0 +1,9 @@
+string name
+int8 state
+uint8 errorCode
+float32 speed
+float32 position
+uint16 voltage
+uint16 outPercentage
+uint16 outCurrent
+float64 overload

@@ -1,0 +1,7 @@
+string model
+
+string command
+
+float64 target
+---
+bool confirm

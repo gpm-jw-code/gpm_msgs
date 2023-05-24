@@ -1,0 +1,7 @@
+uint16 tagID
+string map
+float64 X
+float64 Y
+float64 angle
+---
+bool confirm
